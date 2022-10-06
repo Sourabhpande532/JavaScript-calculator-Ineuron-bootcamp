@@ -16,7 +16,7 @@
 
 ## [GO LIVE](https://bootcamp-project-calculator-js.netlify.app/)
 
-## ![website](./Images/Screenshot%202022-10-06%20150919.png  align="center")
+## ![website](./Images/Screenshot%202022-10-06%20150919.png)
 
 ---
 
