@@ -14,9 +14,9 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE](https://shopify-clone-saurabhp-ineuron.netlify.app/)
+## [GO LIVE](https://bootcamp-project-calculator-js.netlify.app/)
 
-## ![website](./Images/Screenshot%202022-10-06%20150919.png)
+## ![website](./Images/Screenshot%202022-10-06%20150919.png  align="center")
 
 ---
 
